@@ -79,7 +79,7 @@ dotnet run
 ### Access Swagger UI
 
 
-http://localhost:<port>/swagger/index.html
+http://localhost:<Xxxx>/swagger/index.html
 ---
 
 ## Running Tests
